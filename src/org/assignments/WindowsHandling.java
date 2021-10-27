@@ -48,9 +48,11 @@ public class WindowsHandling {
 		li.addAll(Allwindows);
 			li.get(2);
 			
+			
+			System.out.println("completed");
 		}
 		
 		
 	}
 
-}
+
